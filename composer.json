@@ -1,0 +1,12 @@
+{
+    "name": "tmq/dodgen",
+    "description": "Game",
+    "license": "MIT",
+    "minimum-stability": "stable",
+	"autoload":{
+	"App\\": "src"
+	},
+    "require": {
+	"nicmart/tree": "~0.2"
+	}
+}
