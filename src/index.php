@@ -119,29 +119,7 @@ if (isset($_POST['submit']))
 //session_unset($_SESSION['board']);
 //session_destroy();
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- UI -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
